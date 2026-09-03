@@ -1,4 +1,4 @@
-package arrays.array2d;
+package arraysBasic.array2d;
 import java.util.*;
 
 public class FindMaximum_Minimum_In2DArray {

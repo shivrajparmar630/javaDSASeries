@@ -1,4 +1,4 @@
-package arrays.array2d;
+package arraysBasic.array2d;
 import java.util.*;
 public class InputAndPrint2DArray {
     static void main() {
